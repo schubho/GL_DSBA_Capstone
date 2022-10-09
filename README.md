@@ -14,4 +14,4 @@ The objective of the capstone project is to:
 - analyse what factors typically lead to customer churn, and 
 - build a model that will predict churn based on the important features thus identified.
 
-The final Project Report, Presentation, and the Notebooks with the analysis are a part of the repository. 
+The final Project Report, Presentation, and Code (Notebooks) with the analysis are a part of the repository. 
